@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\05-ForLoop\\01-SimpleForLoop\\01-Incrementing",
+    "\\07-DoWhileLoop",
+    "\\07-DoWhileLoop\\01-SimpleDoWhileLoop\\01-Incrementing\\02-TwoIteratingVariables",
+    "\\07-DoWhileLoop\\05-NestedDoWhileLoop",
+    "\\07-DoWhileLoop\\05-NestedDoWhileLoop\\01-NestedDoWhileLoop_One",
+    "\\08-Continue\\01-SimpleLoop_Continue",
+    "\\08-Continue\\02-NestedLoop_Continue",
+    "\\09-Break\\01-SimpleLoop_Break",
+    "\\09-Break\\02-NestedLoop_Break"
+  ],
+  "SelectedNode": "\\07-DoWhileLoop\\05-NestedDoWhileLoop\\01-NestedDoWhileLoop_One\\NestedDoWhileLoop_One.c",
+  "PreviewInSolutionExplorer": false
+}
